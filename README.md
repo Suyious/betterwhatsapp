@@ -18,6 +18,7 @@ More improvements are planned.
 * Lightweight, CSS-first, no tracking
 
 ## Pending Features and bugs
+- [ ] Works best only at 90% zoom level right now
 - [ ] Sidebar should close right after any chat is opened
 - [ ] Few necessary tabs (like settings) should not be hidden
 
