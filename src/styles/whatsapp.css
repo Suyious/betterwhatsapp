@@ -17,4 +17,26 @@ html.betterwhatsapp-ui-hide-target .x10l6tqk.x13vifvy.x1o0tod.x78zum5.xh8yej3.x5
 		padding-inline: 20px !important;
 	}
 
+	/* FOR MAKING THE SIDEBAR FLOATING*/
+	._aigw {
+		position: fixed !important;
+		width: 494px !important;
+		max-width: 100% !important;
+		left: 55% !important;
+		transform: translate(-50%, -50%) !important;
+		height: 80% !important;
+		top: 50% !important;
+		border: .5px solid var(--WDS-lines-divider) !important;
+		border-radius: var(--x14m3oik) !important;
+	}
+	._aigw.xevlxbw {
+		left: 44% !important;
+	}
+
+	/* FOR MAKING EMOJI PANEL SMALLER AND RESPONSIVE */
+	._ak4w._alox._as8u._ao_l._ap4- {
+		left: 40px !important;
+		transform: scale(0.87) !important;
+	}
+
 }

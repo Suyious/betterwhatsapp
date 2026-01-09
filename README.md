@@ -13,26 +13,25 @@ More improvements are planned.
 ## Features
 
 * Improves usability in vertical window layouts
-* Toggleable chat sidebar
+* Toggleable floating chat sidebar
+* Hide unnecessary tabs like MetaAI, Channels, Status
 * Lightweight, CSS-first, no tracking
 
 ## Pending Features and bugs
-* Sidebar is not reponsive when open and covers half the screen
-* The emoji/sticker panel is not responsive
+- [] Sidebar should close right after any chat is opened
+- [] Few necessary tabs (like settings) should not be hidden
 
 ---
 
-## Setup (Chrome)
+## Setup (Chrome/Brave/Edge/Chromium based browsers that suppport chrome extensions)
 
 1. Clone or download this repository
 2. Install dependencies and build:
-
    ```bash
    npm install
    npm run build
    ```
 3. Open Chrome and go to:
-
    ```
    chrome://extensions
    ```
