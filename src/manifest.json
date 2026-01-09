@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Better Whatsapp",
+  "version": "1.0.0",
+  "description": "Customization for Web Whatsapp",
+  "background": {
+    "service_worker": "background/background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://web.whatsapp.com/*"],
+      "js": ["content/content.js"],
+      "css": ["styles/whatsapp.css"]
+    }
+  ],
+	"permissions": [],
+	"icons": {
+		"16": "icons/icon16.png",
+		"32": "icons/icon32.png",
+		"48": "icons/icon48.png",
+		"128": "icons/icon128.png"
+	},
+	"action": {
+		"default_icon": {
+			"16": "icons/icon16.png",
+			"32": "icons/icon32.png",
+			"48": "icons/icon48.png",
+			"128": "icons/icon128.png"
+		}
+	}
+}
