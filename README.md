@@ -16,6 +16,10 @@ More improvements are planned.
 * Toggleable chat sidebar
 * Lightweight, CSS-first, no tracking
 
+## Pending Features and bugs
+* Sidebar is not reponsive when open and covers half the screen
+* The emoji/sticker panel is not responsive
+
 ---
 
 ## Setup (Chrome)
