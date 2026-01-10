@@ -25,17 +25,17 @@ html.betterwhatsapp-ui-hide-target .x10l6tqk.x13vifvy.x1o0tod.x78zum5.xh8yej3.x5
 	/* FOR MAKING THE SIDEBAR FLOATING*/
 	._aigw {
 		position: fixed !important;
-		width: 494px !important;
-		max-width: 100% !important;
-		left: 55% !important;
-		transform: translate(-50%, -50%) !important;
+		width: 100% !important;
+		max-width: 90dvw !important;
+		left: 25px !important;
+		transform: translateY(-50%) !important;
 		height: 80% !important;
 		top: 50% !important;
 		border: .5px solid var(--WDS-lines-divider) !important;
 		border-radius: var(--x14m3oik) !important;
 	}
 	._aigw.xevlxbw {
-		left: 44% !important;
+		left: -39px !important;
 	}
 
 	/* FOR MAKING EMOJI PANEL SMALLER AND RESPONSIVE */
