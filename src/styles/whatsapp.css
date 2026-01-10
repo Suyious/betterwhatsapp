@@ -1,6 +1,5 @@
 html.betterwhatsapp-ui-hide-target ._aigw._as6h.x9f619.x1n2onr6.x5yr21d.x17dzmu4.x1i1dayz.x2ipvbc.xjdofhw.x78zum5.xdt5ytf.x12xzxwr.x1plvlek.xryxfnj.x570efc.x18dvir5.xxljpkc.xwfak60.x18pi947, /* FOR HIDING SIDEBAR */
 .x1c4vz4f.xs83m0k.xdl72j9.x1g77sc7.xeuugli.x2lwn1j.xozqiw3.x1oa3qoh.x12fk4p8.xh8yej3 .x1c4vz4f.xs83m0k.xdl72j9.x1g77sc7.x78zum5.xozqiw3.x1oa3qoh.x12fk4p8.xeuugli.x2lwn1j.x1nhvcw1.x1q0g3np.x1cy8zhl.x100vrsf.x1vqgdyp.xhslqc4.x1ekkm8c.x1143rjc.xum4auv.xj21bgg.x1277o0a.x13i9f1t.xr9ek0c.xjpr12u, /* FOR HIDING THE USELESS TABS */
-.xh8yej3.xjm9jq1.x178xt8z.x13fuv20.xx42vgk.x18oe1m7.x1sy0etr.xstzfhl,
 button[aria-label="Get the app for calling"]
 {
 	display: none !important;
@@ -34,6 +33,7 @@ html.betterwhatsapp-ui-hide-target .x10l6tqk.x13vifvy.x1o0tod.x78zum5.xh8yej3.x5
 		border: .5px solid var(--WDS-lines-divider) !important;
 		border-radius: var(--x14m3oik) !important;
 	}
+	/* FOR MAKING MULTI LEVEL SIDEBAR RESPONSIVE*/
 	._aigw.xevlxbw {
 		left: -39px !important;
 	}
