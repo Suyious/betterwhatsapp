@@ -1,4 +1,5 @@
 # Better WhatsApp Web
+<img width="300" height="985" alt="image" src="https://github.com/user-attachments/assets/d61cc48f-f48c-43c1-9934-e04d4f6c77df" />
 
 This extension is a **personal usability improvement** for **WhatsApp Web**.
 
